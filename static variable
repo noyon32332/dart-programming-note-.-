@@ -1,0 +1,11 @@
+static variable  :         
+  It is shared among all objects of that class.
+  The static variable is also identified as a class variable.
+  The static variables can be accessed directly in the static methods.
+
+ static [data_type] [variable_name];  
+
+Dart Static Method:
+Static methods are also identifies as class methods.
+
+   
