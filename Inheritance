@@ -11,3 +11,13 @@ Hierarchical Inheritance
  single inheritance:
 one parent class= one child class
 
+Multiple Inheritance:
+ a subclass is inherited by another subclass or creates the chaining of inheritance.
+Child class ← Parent1 + Parent2
+
+Multilevel Inheritance
+Grandparent → Parent → Child
+
+Hierarchical Inheritance
+Hierarchical Inheritance = “One parent, multiple children”
+
