@@ -1,9 +1,15 @@
 1.what is the super keyword?
 The super keyword is used to denote the instant parent class object of the current child class.
+
 2.why do use in super key word ?
 amra tin ta karone super key word use kori ,first one is variable ,second one is method and thirtly is constructor 
 tacharaio amra use kore thaki niche deioya hobo 
 #When parent class and child class have members with the same name, then super keyword can be accessed data members of parent class in child class.
 #It is used to access the parent class constructor in the child class.
 #Using the super keyword, we can access the superclass method that is overridden by the subclass.
+
+
+Syntax of variable:Super.varName
+syntax of method : super.methodName;  
+syntax of method  constractor:  :super(); 
 
